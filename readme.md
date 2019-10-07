@@ -1,4 +1,4 @@
-# C++ Boilerplate
+# Valgrind Exercise
 [![Build Status](https://travis-ci.org/ashwinvk94/valgrind_exercise.svg?branch=valgrind_exercise)](https://travis-ci.org/ashwinvk94/valgrind_exercise)
 ---
 
