@@ -16,6 +16,8 @@ cmake ..
 make
 Run tests: ./test/cpp-test
 Run program: ./app/shell-app
+cd ../app
+Run valgrind: valgrind --leak-check=full ./shell-app
 ```
 
 ## Working with Eclipse IDE ##
